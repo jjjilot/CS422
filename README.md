@@ -1,4 +1,4 @@
-#CS422
+# CS422
 From Syllabus:
 
 Technical and nontechnical aspects of software development, including specification, planning, design, development, management and maintenance of software projects. Student teams complete projects.
