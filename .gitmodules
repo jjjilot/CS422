@@ -1,3 +1,6 @@
 [submodule "project-1"]
 	path = project-1
 	url = https://github.com/jjjilot/Easy-A.git
+[submodule "project-2"]
+	path = project-2
+	url = https://github.com/jjjilot/PH-Bike-Stats.git
